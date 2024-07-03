@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0a19b735-2d4e-4c17-ace4-37b7f29d47e8"
+      }
+    },
+    "owner": "rhall477"
   }
 }
