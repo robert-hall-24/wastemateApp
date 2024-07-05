@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to WasteMate! 👋
+
+Welcome to WasteMate, your personal companion for managing and reducing waste efficiently. This app is currently in its initial stages of development, and I am excited to share my progress with you.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
